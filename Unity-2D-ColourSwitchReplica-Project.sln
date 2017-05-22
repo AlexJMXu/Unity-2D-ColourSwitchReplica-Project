@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{7F41CE34-9FC7-B5AD-EBB1-87EBC98177F4}") = "Unity-2D-ColourSwitchReplica-Project", "Assembly-CSharp.csproj", "{7540DC36-A404-7929-1A02-855BA72861E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7540DC36-A404-7929-1A02-855BA72861E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7540DC36-A404-7929-1A02-855BA72861E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7540DC36-A404-7929-1A02-855BA72861E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7540DC36-A404-7929-1A02-855BA72861E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
